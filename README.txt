@@ -1,0 +1,1 @@
+SuiteCRM 7.10.12 Bug fix (not display the text editor when load the EditView of CASE)
