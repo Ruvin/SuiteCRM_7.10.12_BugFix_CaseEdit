@@ -34,5 +34,5 @@ See also the list of [contributors](https://github.com/Ruvin/FixExportCharacters
 
 ### Support & Licensing 
 
-SuiteCRM FixExportCharacters Module is published under the LGPLv3 license.
+This SuiteCRM Module is published under the LGPLv3 license.
 
